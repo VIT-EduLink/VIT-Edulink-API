@@ -1,4 +1,3 @@
-Thank you for your interest in the Vitedulink Backend API. Happy coding!
 # Vitedulink Backend API
 
 This repository contains the backend API for Vitedulink, a website providing study resources for students from Vellore Institute of Technology (VIT). The API is built with Express.js, Node.js, Typescript, PostgreSQL, and Prisma ORM.
